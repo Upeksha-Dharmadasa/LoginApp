@@ -30,6 +30,10 @@ Database: Firebase
 
 <img src="https://user-images.githubusercontent.com/44730905/108571596-8747f400-7336-11eb-9ba3-89d2f6d7860e.png" width="250">
 
+<h2>Password validation</h2>
+
+<img src="https://user-images.githubusercontent.com/44730905/108616740-4afbbd00-7436-11eb-8c23-a33462b19554.png" width="250">
+
 <h2>Password mismatch error</h2>
 
 <img src="https://user-images.githubusercontent.com/44730905/108571692-c1b19100-7336-11eb-83c5-1cf35db844f5.png" width="250">
