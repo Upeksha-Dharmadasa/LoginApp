@@ -66,6 +66,10 @@ Database: Firebase
 
 <img src="https://user-images.githubusercontent.com/44730905/108571889-1ce38380-7337-11eb-8a22-19379f2db141.png" width="250">
 
+<h2>Existing User</h2>
+
+<img src="https://user-images.githubusercontent.com/44730905/108615913-a5911b00-742e-11eb-9ba3-371f6153f699.png" width="250">
+
 <h2>User details on firebase</h2>
 
 <img src="https://user-images.githubusercontent.com/44730905/108572477-5b2d7280-7338-11eb-8846-522a0cd17723.png" width="250">
